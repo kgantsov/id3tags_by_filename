@@ -5,6 +5,5 @@ This is a small script for setting "Artist" and "Title" mp3 id3 tags by file nam
 
 Requirements
 -------------------
-Baker==1.3
-
-eyeD3==0.7.1
+ - Baker==1.3
+ - eyeD3==0.7.1
